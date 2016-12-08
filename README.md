@@ -1,9 +1,9 @@
 # Title
-
+Cloud Office
 ## Authors
 
-- Author 1: Kyriakos Chatzidimitriou
-- Author 2: Name Surname
+- Author 1: Nikolaos Stamatakis 
+- Author 2: Michalis Papanastasiou
 
 ## Abstract
 
@@ -13,4 +13,4 @@ A summary of your project
 
 Links to the documents you have created
 
-  1. [Introduction](https://github.com/kyrcha/soft-eng-assignment/blob/master/documentation/intro.md)
+  1. [Introduction](https://github.com/nstamatak/1o-Paradoteo/blob/master/documentation/introduction.md)

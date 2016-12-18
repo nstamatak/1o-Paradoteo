@@ -1,4 +1,4 @@
-Feature: Use Terms
+Feature: UseTerms
 
     Scenario: Αποδοχή Όρων Χρήσης
 	   When θέλω να χρησιμοποιήσω την υπηρεσία που προσφερεται από το λογισμικό

@@ -1,4 +1,4 @@
-Feature: Account Login
+Feature: AccountLogin
 
 	Scenario: επιτυγχάνοντας είσοδο
 		Given ότι εισέλθω επιτυχώς

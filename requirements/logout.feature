@@ -1,4 +1,4 @@
-Feature: Account Logout
+Feature: AccountLogout
 
    			   
 	     Scenario: Αποσύνδεση χρήστη 

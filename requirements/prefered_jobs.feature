@@ -1,4 +1,4 @@
-Feature: Prefered jobs
+Feature: PreferedJobs
 
 				
    Scenario: Προσθήκη θέσης εργασίας που τον ενδιαφέρει

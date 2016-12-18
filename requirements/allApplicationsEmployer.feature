@@ -1,4 +1,4 @@
-Feature: All applications Employer
+Feature: AllApplicationsEmployer
 
 
 						  

@@ -1,4 +1,4 @@
-Feature: Work Position Area
+Feature: WorkPositionArea
 
 	Scenario: Προβολή περιοχής θέσης Εργασίας
 		Given ότι έχω δηλώσει ενδιαφέρον σε μια θέση εργασίας

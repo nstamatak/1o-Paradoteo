@@ -1,4 +1,4 @@
-Feature: Existed WorkPosition
+Feature: ExistedWorkPosition
 		
 	Scenario: Ενημέρωση  Θέσης Εργασίας
 		Given ότι η δημοσίευση υπάρχει

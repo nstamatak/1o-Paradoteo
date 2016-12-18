@@ -1,4 +1,4 @@
-Feature: New WorkPosition
+Feature: NewWorkPosition
 
     Scenario: Πρόσθεση μιας θέσης εργασίας
 	   Given ότι είμαι διαχειριστής είτε φορέας απασχόλησης

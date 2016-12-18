@@ -1,4 +1,4 @@
-Feature: AdministrationView
+Feature: administrationView
 
         
 		

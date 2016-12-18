@@ -1,4 +1,4 @@
-Feature: Create Account
+Feature: CreateAccount
 
 	Scenario: δημιουργία λογαριασμού                                                                                       
 		Given θέλω να δημιουργήσω λογαριασμό με όνομα χρήστη και κωδικό πρόσβασης

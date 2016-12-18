@@ -1,4 +1,4 @@
-Feature: Jobs Update
+Feature: JobsUpdate
 
 		  
    Σενάριο: προβολή των πιο πρόσφατων θέσεων εργασίας 

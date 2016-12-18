@@ -1,4 +1,4 @@
-Feature: User Authentication
+Feature: UserAuthentication
 
         Scenario: Δήλωση ενδιαφέροντος σε δημοσίευση
 	        Given ενδιαφέρομαι για μια θέση

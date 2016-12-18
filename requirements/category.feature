@@ -1,4 +1,4 @@
-Feature: Κατηγορία
+Feature: category
 
 	Scenario: πρόσθεση κατηγορίας
 		Given ότι είμαι διαχειριστής

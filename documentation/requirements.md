@@ -220,7 +220,7 @@
 # Stability: (5/5) 
 Η δημοσίευση πραγματοποιείται με  συγκεκριμένο τρόπο όπου δεν συνίσταται καμία μεταβολή.
 
-[signup_account.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/signup_account.feature)
+[jobs.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/jobs.feature)
 
 
 ## *<Λειτουργική Απαίτηση 12>*
@@ -241,7 +241,7 @@
 Σε αυτή την υλοποίηση, οι αναζήτηση πραγματοποιείται με το όνομα της δημοσίευσης. Θα μπορούσαν να πραγματοποιηθούν αρκετές 
 τροποποιήσεις αργότερα όπως η πιο εξιδικευμένη αναζήτηση χρησιμοποιόντας έναν αριθμό αναγνώρισης .
 
-[signup_account.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/signup_account.feature)
+[employeeTag.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/employeeTag.feature)
 
 
 ## *<Λειτουργική Απαίτηση 13>*
@@ -260,7 +260,7 @@
 # Stability: (3/5) 
 Μελλοντικά η πληροφόρηση των χρηστών της εφαρμογής μπορεί να γίνει και με άλλους τρόπους , έτσι ώστε οι χρήστες να ενημερώνονται σχετικά με τις πιο πρόσφατες θέσεις εργασίας ακόμα και χωρίς να χρειάζεται να εισέλθουν στην ιστοσελίδα της υπηρεσίας. 
 
-[jobs.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/jobs.feature)
+[employerTag.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/employerTag.feature)
 
 
 ## *<Λειτουργική Απαίτηση 14>*

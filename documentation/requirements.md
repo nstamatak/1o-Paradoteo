@@ -21,7 +21,7 @@
 # Stability: (5/5)
  Η δημιουργία λογαριασμού αν και μπορεί να πραγματοποιείται με  συγκεκριμένο τρόπο όπου δεν συνίσταται καμία μεταβολή ,μελλοντικά είναι ιδιαίτερα εύχρηστο να πραγματοποιηθεί και χωρίς την εγγραφή. Για παράδειγμα για την εγγραφή και την ταυτοποίηση τους θα μπορούσαν να χρησιμοποιούν τον προσωπικό τους λογαριασμό από κάποιο από τα μέσα κοινωνικής δικτύωσης .
 
-
+[signup_account.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/signup_account.feature)
 
 
 ## *<Λειτουργική Απαίτηση 2>*
@@ -42,7 +42,7 @@
 # Stability: (5/5)
 Η εισαγωγή των στοιχείων και ο έλεγχος τους γίνεται με  συγκεκριμένο τρόπο που δεν είναι δυνατό να τροποποιηθεί.
 
-
+[login_account.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/login_account.feature)
 
 
 ## *<Λειτουργική Απαίτηση 3>*
@@ -63,7 +63,7 @@
 # Stability: (5/5) 
 Ο αριθμός των επιλογών του μενού της υπηρεσίας μπορεί να μεταβάλλεται αναλόγως με τις απαιτήσεις κάθε περιόδου από τους χρήστες και των δυνατοτήτων που θέλουν οι διαχειριστές να παρέχουν .
 
-
+[category.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/category.feature)
 
 
 ## *<Λειτουργική Απαίτηση 4>*
@@ -82,7 +82,7 @@
 # Stability: (5/5) 
 Η δημοσίευση πραγματοποιείται με συγκεκριμένο τρόπο όπου δεν συνίσταται καμία μεταβολή.
 
-
+[new_workposition.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/new_workposition.feature)
 
 
 ## *<Λειτουργική Απαίτηση 5>*
@@ -102,7 +102,7 @@
 # Stability: (5/5) 
 Η διαδικασία της επεξεργασίας και της διαγραφής δεδομένων, παρά το γεγονός ότι επιρρεάζεται από την τεχνολογία η οποία χρησιμοποιείτε, παραμένει αμετάβλητη. Κατα συνέπεια δεν πρόκειται να μεταβληθεί ακούσια.
 
-
+[AdministrationView.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/AdministrationView.feature)
 
 
 ## *<Λειτουργική Απαίτηση 6>*
@@ -122,7 +122,7 @@
 # Stability: (5/5) 
 Η δημοσίευση πραγματοποιείται με συγκεκριμένο τρόπο όπου δεν συνίσταται καμία μεταβολή αν και επηρεάζεται από την ανάπτυξη τεχνολογιών.
 
-
+[workarea.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/workarea.feature)
 
 
 ## *<Λειτουργική Απαίτηση 7>*
@@ -141,7 +141,7 @@
 # Stability: (5/5) 
 Η δημοσίευση πραγματοποιείται με  συγκεκριμένο τρόπο όπου δεν συνίσταται καμία μεταβολή.
 
-
+[covered_workposition.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/covered_workposition.feature)
 
 
 ## *<Λειτουργική Απαίτηση 8>*
@@ -161,7 +161,7 @@
 # Stability: (5/5) 
 Η συγκεκριμένη δυνατότητα αν και δεν είναι αναγκαία καθώς εξασφαλίζεται από πολλές τεχνολογίες , χρησιμοποιείται για να αντιμετωπίζεται ακόμα αποτελεσματικότερα η τυχον παραχάραξη στοιχείων.
 
-
+[userauthentication.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/userauthentication.feature)
 
 
 ## *<Λειτουργική Απαίτηση 9>*
@@ -180,7 +180,7 @@
 # Stability: (5/5) 
 Η υλοποίηση της *<Λειτουργική Απαίτηση 9>* είναι αναγκαία διότι αποτελεί ένα κύριο θεμέλιο λειτουργίας κάθε λογισμικού.
 
-
+[useterms.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/useterms.feature)
 
 
 ## *<Λειτουργική Απαίτηση 10>*
@@ -200,7 +200,7 @@
 # Stability: (5/5) 
 Η διαδικασία της επαναφοράς διαγραμμένων δημοσιεύσεων ίσως μειώσει τη χωρητικότητα της βάσης δεδομένων .
 
-
+[recovery_basket.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/recovery_basket.feature)
 
 
 ## *<Λειτουργική Απαίτηση 11>*
@@ -220,7 +220,7 @@
 # Stability: (5/5) 
 Η δημοσίευση πραγματοποιείται με  συγκεκριμένο τρόπο όπου δεν συνίσταται καμία μεταβολή.
 
-
+[signup_account.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/signup_account.feature)
 
 
 ## *<Λειτουργική Απαίτηση 12>*
@@ -241,7 +241,7 @@
 Σε αυτή την υλοποίηση, οι αναζήτηση πραγματοποιείται με το όνομα της δημοσίευσης. Θα μπορούσαν να πραγματοποιηθούν αρκετές 
 τροποποιήσεις αργότερα όπως η πιο εξιδικευμένη αναζήτηση χρησιμοποιόντας έναν αριθμό αναγνώρισης .
 
-
+[signup_account.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/signup_account.feature)
 
 
 ## *<Λειτουργική Απαίτηση 13>*
@@ -260,7 +260,7 @@
 # Stability: (3/5) 
 Μελλοντικά η πληροφόρηση των χρηστών της εφαρμογής μπορεί να γίνει και με άλλους τρόπους , έτσι ώστε οι χρήστες να ενημερώνονται σχετικά με τις πιο πρόσφατες θέσεις εργασίας ακόμα και χωρίς να χρειάζεται να εισέλθουν στην ιστοσελίδα της υπηρεσίας. 
 
-
+[jobs.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/jobs.feature)
 
 
 ## *<Λειτουργική Απαίτηση 14>*
@@ -279,7 +279,7 @@
 # Stability: (3/5) 
 Η υλοποίηση της *<Λειτουργική Απαίτηση 14>* θα γίνεται με τη μεταφορά των αρχείων των υποψήφιων εργαζομένων σε κάποιο εξυπηρετητή. Η συνεχής εξέλιξη της τεχνολογίας, μπορεί να φέρει μεταβολές στον τρόπο με τον οποίο πραγματοποιείται.
 
-
+[addFiles.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/addFiles.feature)
 
 
 ## *<Λειτουργική Απαίτηση 15>*
@@ -298,7 +298,7 @@
 # Stability: (5/5) 
 Η χρήση αυτής της λίστας δημοσιεύσεων που ενδιαφέρουν αυτούς που αναζητούν εργασία ίσως μειώσει τη χωρητικότητα της βάσης δεδομένων μας.
 
-
+[prefered_jobs.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/prefered_jobs.feature)
 
 
 ## *<Λειτουργική Απαίτηση 16>*
@@ -318,7 +318,7 @@
 Η υποβολή του ερωτήματος στη συγκεκριμένη υλοποίηση θα πραγματοποιείται με την προώθηση του ερωτήματος που υποβάλλει ο ενδιαφερόμενος
 στον λογαριασμό email που θα έχει ορίσει ο κάθε φορέας απασχόλησης. Η λειτουργία αυτή θα μπορούσε να εξελιχθεί με την πάροδο του χρόνου και αν πραγματοποιείται μέσω μιας υπηρεσίας chat. 
 
-
+[question.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/question.feature)
 
 
 ## *<Λειτουργική Απαίτηση 17>*
@@ -337,7 +337,7 @@
 # Stability: (3/5) 
 Για αυτή την απαίτηση, η προβολή των αιτήσεων ,θα πραγματοποιείται ως  μια λίστα κειμένου. Όσον αφορά τις δυνατότητες εξέλιξης αυτές αφορούν την κατηγοριοποίηση των αιτήσεων σε σχέση με την κατάσταση στην οποία βρίσκονται, την ημερομηνία υποβολής τους αλλά και το αντικείμενο αυτών των θέσεων εργασίας.
 
-
+[allAplicationsEmployee.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/allAplicationsEmployee.feature)
 
 
 ## *<Λειτουργική Απαίτηση 18>*
@@ -358,7 +358,7 @@
 # Stability: (4/5)
 Η προβολή των αιτήσεων απασχόλησης υλοποιείται με την προβολή έτοιμων φορμών με τα στοιχεία του κάθε υποψήφιου εργαζομένου, τα έγγραφα που επισυνάπτονται με την επιλογή της αποδοχής ή της απόρριψης της αίτησης του.
 
-
+[allAplicationsEmployer.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/allAplicationsEmployer.feature)
 
 
 ## *<Λειτουργική Απαίτηση 19>*
@@ -378,7 +378,7 @@
 Σε αυτή την υλοποίηση, οι αιτήσεις απασχόλησης κατηγοριοποιούνται ανά υποψήφιο εργαζομένο και ανά φορέα απασχόλησης. Θα μπορούσαν να πραγματοποιηθούν αρκετές τροποποιήσεις, όπως είναι η κατηγοριοποίηση με γνώμονα διαφορετικά κριτήρια ή η υλοποίηση αποκλεισμού 
 σε όλες τις αιτήσεις που περιέχουν ψευδή στοιχεία.
 
-
+[AdministrationView.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/AdministrationView.feature)
 
 
 ## *<Λειτουργική Απαίτηση 20>*
@@ -397,7 +397,7 @@
 # Stability: (3/5) 
 Η απαίτηση αυτή θα μπορούσε να πραγματοποιηθεί και χωρίς την δημιουργία λογαριασμού. Για παράδειγμα για την δημιουργία λογαριασμού και την ταυτοποίηση τους θα μπορούσαν να χρησιμοποιούν τον προσωπικό τους λογαριασμό σε κάποιο από τα μέσα κοινωνικής δικτύωσης που είναι πολύ συνηθισμένο και με ικανοποιητικά μεγάλο βαθμό ασφάλειας.
  
- 
+ [logout.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/logout.feature)
  
 
  

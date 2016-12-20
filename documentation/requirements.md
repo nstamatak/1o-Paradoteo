@@ -581,20 +581,23 @@
 # Stability (3/5): 
 Υπάρχουν περιθώρια μεταβολής στη *<Λειτουργική Απαίτηση 10>*, καθώς μπορεί να χρησιμοποιηθέι κάποιος άλλος επιπρόσθετος τρόπος ταυτοποίησης αντί του δακτυλικού αποτυπώματος ή ακόμα να βελτιωθεί και ο εξοπλισμός ο οποίος χρησιμοποιείται για να την υλοποιήσει κατά την πάροδο των ετών.
 
-
 User story
-
-Create here the related feature/user story based on BDD and the Gherkin syntax (https://github.com/cucumber/cucumber/wiki/Gherkin). Do that by putting a link to the relevant feature file.
 
 Use case diagram
 
-Representation of all users and user stories/use cases
+![use case diagram](https://github.com/nstamatak/1o-Paradoteo/blob/master/images/usecasediagram.JPG)
+
 
 Activity diagrams
 
-Create activity diagrams to portray the flow of basic user process in the system.
+![activity1](https://github.com/nstamatak/1o-Paradoteo/blob/master/images/activity1.JPG)
+![activity2](https://github.com/nstamatak/1o-Paradoteo/blob/master/images/activity2.JPG)
+![activity3](https://github.com/nstamatak/1o-Paradoteo/blob/master/images/activity3.JPG)
+![activity4](https://github.com/nstamatak/1o-Paradoteo/blob/master/images/activity4.JPG)
+![activity5](https://github.com/nstamatak/1o-Paradoteo/blob/master/images/activity5.JPG)
 
-Mockups and Storyboards
+
+
 
 Put the link to the relevant storyboard.md files that display how one goes from one mockup to another.
 

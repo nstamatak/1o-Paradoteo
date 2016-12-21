@@ -241,7 +241,7 @@
 Σε αυτή την υλοποίηση, οι αναζήτηση πραγματοποιείται με το όνομα της δημοσίευσης. Θα μπορούσαν να πραγματοποιηθούν αρκετές 
 τροποποιήσεις αργότερα όπως η πιο εξιδικευμένη αναζήτηση χρησιμοποιόντας μεγαλύτερο αριθμό χαρακτηριστικών .
 
-[employerTag.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/employerTag.feature)
+[Tags.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/Tags.feature)
 
 
 # *<Λειτουργική Απαίτηση 13>*

@@ -220,7 +220,7 @@
 ## Stability: 
 Η δημοσίευση πραγματοποιείται με  συγκεκριμένο τρόπο όπου δεν συνίσταται καμία μεταβολή.
 
-[preferedjobs.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/preferedjobs.feature)
+[prefered_jobs.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/prefered_jobs.feature)
 
 
 # *<Λειτουργική Απαίτηση 12>*
@@ -298,7 +298,7 @@
 ## Stability:
 Η χρήση αυτής της λίστας δημοσιεύσεων που ενδιαφέρουν αυτούς που αναζητούν εργασία ίσως μειώσει τη χωρητικότητα της βάσης δεδομένων μας.
 
-[prefered_jobs.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/prefered_jobs.feature)
+[prefered_jobs_list.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/prefered_jobs_list.feature)
 
 
 # *<Λειτουργική Απαίτηση 16>*

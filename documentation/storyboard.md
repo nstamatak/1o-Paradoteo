@@ -32,7 +32,7 @@
 ![newworkposition](https://github.com/nstamatak/1o-Paradoteo/blob/master/images/newworkposition.JPG)
 
 ## Επεξεργασία Δημοσίευσης
-
+Στη περίπτωση που επιλεγεί το κουμπί επεξεργασία αντί αποθήκευση ο φορέας μπορεί να επεξεράζεται τα στοιχεία της δημοσίευσης και να τα ενημερώνει όποτε χρειαστεί και τέλος πατώντας προσθήκη μεταβολών οι αλλαγές αποθηκεύονται . Επίσης η δημοσίευση αν κριθεί απαραίτητο μπορεί να διαγραφτει .
 ![editworkposition](https://github.com/nstamatak/1o-Paradoteo/blob/master/images/editworkposition.JPG)
 
 ## Υποβολή Ερώτησης

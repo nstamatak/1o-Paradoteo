@@ -220,7 +220,7 @@
 ## Stability: 
 Η δημοσίευση πραγματοποιείται με  συγκεκριμένο τρόπο όπου δεν συνίσταται καμία μεταβολή.
 
-[jobs.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/jobs.feature)
+[preferedjobs.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/preferedjobs.feature)
 
 
 # *<Λειτουργική Απαίτηση 12>*
@@ -260,7 +260,7 @@
 ## Stability:
 Μελλοντικά η πληροφόρηση των χρηστών της εφαρμογής μπορεί να γίνει και με άλλους τρόπους , έτσι ώστε οι χρήστες να ενημερώνονται σχετικά με τις πιο πρόσφατες θέσεις εργασίας ακόμα και χωρίς να χρειάζεται να εισέλθουν στην ιστοσελίδα της υπηρεσίας. 
 
-[employerTag.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/employerTag.feature)
+[jobs.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/jobs.feature)
 
 
 # *<Λειτουργική Απαίτηση 14>*

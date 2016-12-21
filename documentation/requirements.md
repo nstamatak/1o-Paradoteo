@@ -298,7 +298,7 @@
 ## Stability:
 Η χρήση αυτής της λίστας δημοσιεύσεων που ενδιαφέρουν αυτούς που αναζητούν εργασία ίσως μειώσει τη χωρητικότητα της βάσης δεδομένων μας.
 
-[prefered_jobs_list.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/prefered_jobs_list.feature)
+[prefered_jobs.feature](https://github.com/nstamatak/1o-Paradoteo/blob/master/requirements/prefered_jobs.feature)
 
 
 # *<Λειτουργική Απαίτηση 16>*

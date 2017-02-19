@@ -1,1 +1,1 @@
-![uml](https://github.com/nstamatak/1o-Paradoteo/blob/master/images/jobfinder%20UML%20diagram.JPG)
+![uml](https://github.com/nstamatak/1o-Paradoteo/blob/master/images/jobfinder%20uml%20diagram.JPG)
